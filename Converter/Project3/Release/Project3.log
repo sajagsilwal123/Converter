@@ -1,0 +1,25 @@
+﻿  Cverter.cpp
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3336): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3342): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3348): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3361): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3385): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3391): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3397): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3409): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3415): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3433): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3439): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3445): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3457): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3463): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3469): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3475): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3481): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3487): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3493): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3535): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3541): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\converter\project3\Cverter.h(3589): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\hp\Desktop\New folder\Converter\Release\Converter.exe
+  Project3.vcxproj -> C:\Users\hp\Desktop\New folder\Converter\Release\Converter.pdb (Full PDB)

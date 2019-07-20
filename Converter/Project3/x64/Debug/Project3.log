@@ -1,0 +1,119 @@
+﻿  Cverter.cpp
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(888): error C2039: 'radioPound_CheckedChanged': is not a member of 'Project3::Cverter'
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(16): note: see declaration of 'Project3::Cverter'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(888): error C2065: 'radioPound_CheckedChanged': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(888): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(888): note: pointer to member function expected
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(903): error C2039: 'radioTonne_CheckedChanged': is not a member of 'Project3::Cverter'
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(16): note: see declaration of 'Project3::Cverter'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(903): error C2065: 'radioTonne_CheckedChanged': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(903): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(903): note: pointer to member function expected
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1063): error C2039: 'panel2_Paint': is not a member of 'Project3::Cverter'
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(16): note: see declaration of 'Project3::Cverter'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1063): error C2065: 'panel2_Paint': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1063): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::PaintEventHandler':
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1063): note: pointer to member function expected
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1608): error C2664: 'void System::Windows::Forms::Control::Paint::add(System::Windows::Forms::PaintEventHandler ^)': cannot convert argument 1 from 'System::EventHandler ^' to 'System::Windows::Forms::PaintEventHandler ^'
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1608): note: No user-defined-conversion operator available, or
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(1608): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2623): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2623): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2623): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2638): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2638): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2638): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2644): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2644): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2644): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2650): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2650): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2650): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2656): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2656): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2656): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2662): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2662): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2662): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2674): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2674): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2674): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2680): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2680): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2680): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2686): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2686): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2686): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2692): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2692): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2692): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2698): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2698): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2698): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2710): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2710): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2710): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2716): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2716): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2716): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2722): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2722): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2722): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2728): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2728): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2728): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2734): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2734): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2734): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2746): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2746): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2746): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2752): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2752): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2752): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2758): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2758): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2758): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2764): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2764): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2764): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2770): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2770): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2770): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2782): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2782): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2782): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2788): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2788): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2788): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2794): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2794): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2794): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2800): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2800): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2800): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2806): error C2065: 'label4': undeclared identifier
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2806): error C2227: left of '->Text' must point to class/struct/union/generic type
+  c:\users\hp\desktop\new folder\project3\project3\Cverter.h(2806): note: type is 'unknown-type'
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3049): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3055): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3061): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3074): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3098): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3110): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3146): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3152): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3158): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3170): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3176): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3188): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3200): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3206): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3248): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3254): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\new folder\project3\project3\Cverter.h(3302): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
